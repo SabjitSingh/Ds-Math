@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 package Math_basics_problems;
 import java.util.*;
 public class seive_of_Eratosthene {
@@ -82,4 +82,4 @@ public class seive_of_Eratosthene {
         }
     }
 
->>>>>>> origin/master
+
